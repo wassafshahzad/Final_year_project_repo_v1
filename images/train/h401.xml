@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Positive</folder>
-	<filename>h401.bmp</filename>
-	<path>C:\Users\ARAAK\Downloads\Images for FYP1\leds\Positive\h401.bmp</path>
+	<filename>h401.jpg</filename>
+	<path>C:\Users\ARAAK\Downloads\Images for FYP1\leds\Positive\h401.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>25</xmin>
+			<xmin>20</xmin>
+			<ymin>40</ymin>
+			<xmax>71</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>digit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
 			<ymin>42</ymin>
-			<xmax>88</xmax>
-			<ymax>118</ymax>
+			<xmax>118</xmax>
+			<ymax>108</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>347</xmin>
-			<ymin>45</ymin>
-			<xmax>410</xmax>
-			<ymax>121</ymax>
+			<xmin>116</xmin>
+			<ymin>42</ymin>
+			<xmax>162</xmax>
+			<ymax>112</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>290</xmin>
-			<ymin>45</ymin>
-			<xmax>353</xmax>
-			<ymax>121</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>digit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>235</xmin>
+			<xmin>159</xmin>
 			<ymin>44</ymin>
-			<xmax>298</xmax>
-			<ymax>120</ymax>
+			<xmax>209</xmax>
+			<ymax>112</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>175</xmin>
-			<ymin>42</ymin>
-			<xmax>238</xmax>
-			<ymax>118</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>digit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>131</xmin>
+			<xmin>209</xmin>
 			<ymin>39</ymin>
-			<xmax>194</xmax>
-			<ymax>115</ymax>
+			<xmax>255</xmax>
+			<ymax>117</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>74</xmin>
-			<ymin>43</ymin>
-			<xmax>137</xmax>
-			<ymax>119</ymax>
+			<xmin>250</xmin>
+			<ymin>42</ymin>
+			<xmax>303</xmax>
+			<ymax>110</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +89,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>399</xmin>
-			<ymin>46</ymin>
-			<xmax>452</xmax>
-			<ymax>125</ymax>
+			<xmin>303</xmin>
+			<ymin>37</ymin>
+			<xmax>355</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>digit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>39</ymin>
+			<xmax>396</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>digit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>38</ymin>
+			<xmax>457</xmax>
+			<ymax>123</ymax>
 		</bndbox>
 	</object>
 </annotation>

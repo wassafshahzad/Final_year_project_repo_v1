@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Positive</folder>
-	<filename>img15.bmp</filename>
-	<path>C:\Users\ARAAK\Downloads\Images for FYP1\leds\Positive\img15.bmp</path>
+	<filename>img15.jpg</filename>
+	<path>C:\Users\ARAAK\Downloads\Images for FYP1\leds\Positive\img15.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>276</xmin>
-			<ymin>63</ymin>
-			<xmax>339</xmax>
-			<ymax>191</ymax>
+			<xmin>282</xmin>
+			<ymin>56</ymin>
+			<xmax>345</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 	<object>
